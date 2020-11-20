@@ -21,8 +21,7 @@ npm install --save-dev nodemon
 ```
 npm init
 ```
-
-### Instalar módulos restify, restify-errors, knex e mysql
+### Instalar módulos restify, restify-errors, knex e postgres
 ```
 npm i --save restify restify-errors knex pg
 ```
